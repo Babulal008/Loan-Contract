@@ -59,6 +59,3 @@ Prerequisites
 clone the repo - git repo https://github.com/viveknarula1980/LoanContract.git
 
 
-## Contributing:
-
-Contributions are welcome! Please open an issue to discuss proposed changes or submit a pull request.
