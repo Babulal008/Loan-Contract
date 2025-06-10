@@ -14,6 +14,7 @@ contract LoanContract {
     mapping(address => Loan) public loans;
     address public owner;
 
+//sdk-version -2.00
 
 
 
@@ -67,3 +68,5 @@ contract LoanContract {
         return (loan.amount, loan.interestRate, loan.dueAmount, loan.amountPaid, loan.dueDate);
     }
 }
+
+//end 
