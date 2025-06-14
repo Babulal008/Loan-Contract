@@ -81,4 +81,3 @@ View Loan Details
 Borrower checks the principal, interest, total due, amount paid, and due date.
 
 Check Outstanding Balance
-Borrower can instantly see how much is left to repay.
