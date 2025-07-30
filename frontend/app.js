@@ -15,7 +15,7 @@ const contractABI = [
     "function set(uint256 x) public",
     "function get() public view returns (uint256)"
 ];
-
+//contract address 
 const contractAddress = "0xb49a5e13Ca3FE16d3Bf62FEB439e87F9a349F416"; // Replace with the actual address
 
 connectButton.addEventListener("click", async () => {
