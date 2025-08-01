@@ -14,7 +14,7 @@ contract LoanContract {
     mapping(address => Loan) public loans;
     address public owner;
 
-//sdk-version -2.00
+//sdk-version -2.00--module
 
 
 
